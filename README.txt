@@ -1,0 +1,3 @@
+First steps into Responsive web.
+
+@ 시대가 너무 좋아졌다 이런 것도 바로 호스팅해주고...
