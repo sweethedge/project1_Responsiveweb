@@ -10,23 +10,25 @@ nav {
   padding: 5px; /* 내용물이 안쪽으로 들어가는 태그 */
   display: flex;
   justify-content:space-between; /* 내용물을 균등하게 뿌리는 태그 */
-  color: white;
   height: 40px;
+  color: white;
 }
 nav a {
-  color:white;
   padding: 10px;
   top: 0;
   position: sticky;
+  color: black;
 }
 
- nav > ul {display: flex;
-            list-style: none; 
-            margin: 5px; 
+nav > ul {display: flex;
+  list-style: none; 
+  margin: 5px; 
 }
 header {
+  font-family: 'Nanum Brush Script', cursive;
+  /*font-family: 'Nanum Gothic', sans-serif;*/
+  font-size: 30px;
   background-color: #E8DFCA;
-  
 }
 
 header > section {
