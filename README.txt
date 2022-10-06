@@ -1,3 +1,3 @@
-First steps into Responsive web.
+반응형 웹
+서비스 사이트 : https://sweethedge.github.io/project1_Responsiveweb/
 
-@ 시대가 너무 좋아졌다 이런 것도 바로 호스팅해주고...
